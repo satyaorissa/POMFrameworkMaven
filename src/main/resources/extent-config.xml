@@ -39,7 +39,7 @@
       ]]>
     </scripts>
     
-    <!-- custom styles -->
+    
     <styles>
       <![CDATA[
         
@@ -47,3 +47,4 @@
     </styles>
   </configuration>
 </extentreports>
+
